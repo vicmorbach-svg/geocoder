@@ -1,3 +1,3 @@
 streamli
 pandas
-geopy
+geopy.geocoders
