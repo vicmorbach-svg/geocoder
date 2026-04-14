@@ -1,3 +1,9 @@
 streamli
 pandas
-geopy.geocoders
+geopy
+geopandas
+matplotlib
+plotly
+openpyxl
+xlsxwriter
+
